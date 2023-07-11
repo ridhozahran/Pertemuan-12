@@ -1,0 +1,8 @@
+C:\pemrog\prak12\praklab12\bin\Debug\praklab12.exe.config
+C:\pemrog\prak12\praklab12\bin\Debug\praklab12.exe
+C:\pemrog\prak12\praklab12\bin\Debug\praklab12.pdb
+C:\pemrog\prak12\praklab12\obj\Debug\praklab12.csproj.AssemblyReference.cache
+C:\pemrog\prak12\praklab12\obj\Debug\praklab12.csproj.SuggestedBindingRedirects.cache
+C:\pemrog\prak12\praklab12\obj\Debug\praklab12.csproj.CoreCompileInputs.cache
+C:\pemrog\prak12\praklab12\obj\Debug\praklab12.exe
+C:\pemrog\prak12\praklab12\obj\Debug\praklab12.pdb
